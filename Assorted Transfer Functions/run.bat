@@ -1,0 +1,2 @@
+python doDir.py
+pause
